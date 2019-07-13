@@ -1,7 +1,7 @@
 # Machine_Learning_creating_audiobooks
 this repository contains code parts and a README instruction on how to start with creating your own audio files. It is based on several different tutorials and Plattform descriptions merged together. 
-# Starting
-##In the following i will shortly list up erery step you need to do to creat an audio file using the Google text-to-speech API 
+## Starting
+In the following i will shortly list up erery step you need to do to creat an audio file using the Google text-to-speech API 
 
 1. collect PDF-books you like 
 
