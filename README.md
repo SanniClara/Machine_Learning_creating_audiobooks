@@ -34,7 +34,7 @@ npm install FileReader
 
 Open the PDF_to_text.js Code in your IDE and chance: 
 var pdf_path = "Books_I_Like/cfordummies.pdf"; into a book you like and the right path. 
-Then run the code in the command line with the following command 
+Then run the code in the command line with the following command:
 ```
 node PDF_to_text.js 
 ```
@@ -47,7 +47,7 @@ Then copy the text from the text File you just created and paste it into the var
 This is very clumpsy and funky way to do it but i still havnt found a different way to do it. 
 
 VERY IMPORTANT: before you run the text-to-speech.js Code you need to verify with you JSON verification 
-by opening the command line and use the following command. 
+by opening the command line and use the following command:
 ```
 set GOOGLE_APPLICATION_CREDENTIALS=./nameOfYourJsonFile.json
 ```
