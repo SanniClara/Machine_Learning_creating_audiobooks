@@ -6,7 +6,7 @@ In addition to that it has a code part where you can transform pdf into txt on y
 You can read about the inspiration, the struggles i had and more accurate information in the repository in the ML_Blog_Post_Susanne.pdf file. 
 
 ## Starting
-In the following i will shortly list up erery step you need to do to creat an audio file using the Google text-to-speech API 
+In the following i will shortly list up erery step you need to do to create an audio file using the Google text-to-speech API 
 
 ```
 1. collect PDF-books you like 
@@ -79,6 +79,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-[Google Cloud Platform] (https://cloud.google.com/ml-engine/?hl=de) 
+
+[Google Cloud Platform](https://cloud.google.com/ml-engine/?hl=de) 
 
 
