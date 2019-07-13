@@ -73,12 +73,14 @@ http://eazymind.herokuapp.com/arabic_sum/
 
 ## Contributing 
 
-Any pull requests are very welcome. There is one problem that i'm hoping to solve with the community. The problem ist that i still can't pass on .txt files to the Google API. It either has to do with async function or the content of the txt file. I'm open for help. :) 
+Any pull requests are very welcome. There is one problem that i'm hoping to solve with the community. The problem is, that i still can't pass on .txt files to the Google API. It either has to do with async function or the content of the txt file. I'm open for help. :) 
 
 Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
 Google Cloud Platform 
 
 
