@@ -1,9 +1,9 @@
 # Text-to-speech creating audiobooks with Google API 
 This repository contains code parts and instructions on how to start with creating your own audiobook files. It is based on the Google text-to-speech API
 
-In addition to that it has a code part where you can transform pdf into txt on your local PC that i wrote myself
+In addition to that it has a code part where you can transform pdf into txt on your local PC that i wrote.
 
-You can read about the inspiration, the struggles i had and more accurate information in the repository in the ML_Blog_Post_Susanne.pdf file. 
+You can read about the inspiration, the struggles i had and more accurate information in the ML_Blog_Post_Susanne.pdf file. 
 
 ## Starting
 In the following i will shortly list up erery step you need to do to create an audio file using the Google text-to-speech API 
