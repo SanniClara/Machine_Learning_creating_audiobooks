@@ -60,6 +60,17 @@ this will creat a Output.mp3 file that you can listen to
 
 ## Text Summary
 
+I used this code to summarize my text, you will need a coupke of hours to install and get this code to run if you havn't worked wit tensorflow, google Colab or Python before. It was my first time working with these instances so i took me a while to get into it. 
+
+```
+https://github.com/theamrzaki/text_summurization_abstractive_methods/tree/master/Implementation%20A%20(seq2seq%20with%20attention%20and%20feature%20rich%20representation)/Model%202
+```
+if you want to skip the self programming part you can upload you text here:
+
+```
+http://eazymind.herokuapp.com/arabic_sum/
+```
+
 ## Contributing 
 
 Any pull requests are very welcome. There is one problem that i'm hoping to solve with the community. The problem ist that i still can't pass on .txt files to the Google API. It either has to do with async function or the content of the txt file. I'm open for help. :) 
@@ -68,4 +79,6 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+Google Cloud Platform 
+
 
