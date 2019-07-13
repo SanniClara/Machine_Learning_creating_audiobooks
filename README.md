@@ -10,13 +10,10 @@ I was able to avoid this by using a university lience
 3. 
 
 
-## Download 
-You will find all the 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-# Start with installing all the node modules you need for the text to speech in your local file where you will have your Javascript Code
+## Downloads 
+
+Start with installing all the node modules you need for the text to speech in your local file where you will have your Javascript Code
+
 ## Installation
 
 npm install file-system --save
