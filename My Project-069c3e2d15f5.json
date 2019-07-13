@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cosmic-inkwell-243020",
+  "private_key_id": "069c3e2d15f58aeb33d4ec7b0df598da2bd2d142",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDaaVusxZ9jL4i9\nTb/ZHLM++ApA1zVzVPFEVDIe8ZyoXoSLQceSfWpITo2tMvOm6YZL1OZEz8f/IShE\nm8DvYLBU5gysWhxgIKqPm5Nd6z6bunIsLukT6qgeQU7nVoj6vuHOG2oOIoywhdnx\nX/mKHCL00nBqutOCVdqPoG1aZCbBkbndxtsula+jV93tNzyhOO5MgV07iR3SYr+6\nUzS/DomPJZUNVa13BxJn2J3I+yXKyAdkv9dAS0a3TewR3Rwy8STDAy86+jMkf/pG\nUDhoaPjcRA7kXLMpheifGj0Q+0s8f38iTyaI158JmeewcLUVPUQqhQkum1dtKOrG\nNj42LlCZAgMBAAECggEACRFwxfaajIKvubRdr8T6SDYCLvkAdh5jugOI5TIA4Bi0\nhhegEpv0arYgOb2w0hBGDCX1vYum8RfOVTLmSsoH6C54/jrrjK4uhrHd53tZ6RtP\nnDgCY1pNypvJi99S5p5AP89xks6qarXT+6qRcMOETAfktPm2yGWKIoZ1o9gep9Cy\nb2IgPmUlOoLkCqL1+zWSiMr48srXw1Lj+7UfN2hXdP0sPSK1Wkc4NfPxCF33bgaS\nYJ8DeqFVOlMHv0GBETKuzTA28aHp5YhWkVKvCf9rD+GoXfoADoWJtOjdV3eELVH+\nMn7A5Ie0Z1IjEDtmzrLVvcK2+wUmP0NTiNsgsqzkAQKBgQD4JgLAc+ZzMTSHmhfw\nMzLFAUyOv1FZeNkdCJyLOSNDMVrjojijIn7sriEp6IaSRq2AfIMfeM6FrXu3Z6V5\nURYHE8iejBSmDP+GMkMvjHtIObCJlAIke6Zk9bWZE2lBS3IPQ97VQGHQTXlWCtFa\nkaj4qnIbdcdv8q/zDrNg5EvJgQKBgQDhUnrZSuCSMBSbtVhBN8e22rq2C7bSKg7s\nHeYuaaRBQTmwiushYb5jJT09d72yqIN8Wgp31hZ/xudeIO0vqJU2WKu8EeKtymz4\nA8A6kJ53Z4S58NMrLy5tsr9oN3HlW9IdsD+j3H2faJ/r1oB9mPhDipF+ooSRKlqZ\nDVjB3bsjGQKBgGTOFCoYKxK6d2tqprTWJ5auK2qFv8dH93L675UDFhcSsqhsWvOy\nbLs7FY/PvPMpMQxUCHQ9gC//xJVBzo/U58ziNYpqv2yhNSBPxMlJGT/C57tL2/70\nGClFQ4s2vnhe7KvU123r5JBZGKRiap+PMoQpwYb0Npt8jAuB+k6vDzaBAoGAftMG\nArh6ns4hS2NPQaY761hCL6V4SeMScySBIy6jHXexGQWYQznZB8U2Kxry01S2bY/g\nxILkNxelsv2lg2XIVsaiI0GN7XQ60X6K/GvaRismMeKzeWMdJvGteuN6YDbGlZ9W\nssywiMFDAmPB/u/TDXE5Y6XmKC9Gv08b3kMHykECgYEAhQE8cVWCA/Qx8ikqFvcW\nx9cMvi3mstnVBAX2e006DpOdY7L46CSdLZ8s0ujSRuIXIbFIPXj+wp2+C5Y6refR\nKBI2WDCLCCMBRTE6Q65eMl7TmsY6RgeSdRZVEeZQV2KyHP/gCgXzjk8b032Sy41t\nIqwuGQmMJydPdMgrJlUvEuI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sc-konto@cosmic-inkwell-243020.iam.gserviceaccount.com",
+  "client_id": "103101794499374802080",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sc-konto%40cosmic-inkwell-243020.iam.gserviceaccount.com"
+}
