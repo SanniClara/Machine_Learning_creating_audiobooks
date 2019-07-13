@@ -11,19 +11,18 @@ In the following i will shortly list up erery step you need to do to creat an au
 ```
 1. collect PDF-books you like 
 2. create an Google account and sign up at at the Google Cloud Machine Learning platform (they will ask for your Credit Card).
-I was able to avoid this by using a university lience
+   I was able to avoid this by using a university lience
 3. Create a new project on the platform 
-4. Download your JSON verification 
-5. 
+4. Download your JSON verification from Google
+5. Download the Repository and put it into a local folder 
+6. open you command line and navigate into this folder
+7. change the pathnames in the code so they fit to your files system
 ```
 
 ## Downloads 
 
-Start with installing all the node modules you need for the text to speech in your local file where you will have your Javascript Code
+The next thing is to install all the node modules you need for the text-to-speech application 
 
-Download 
-
-## Installation
 ```
 npm install file-system --save
 npm install pdf-to-text
@@ -31,6 +30,36 @@ npm install util
 npm install node-fetch --save
 npm install FileReader
 ```
+## Creating a .txt file from a pdf 
+
+Open the PDF_to_text.js Code in your IDE and chance: 
+var pdf_path = "Books_I_Like/cfordummies.pdf"; into a book you like and the right path. 
+Then run the code in the command line with the following command 
+```
+node PDF_to_text.js 
+```
+this will create a Output.txt file in the text_files folder 
+
+## Creating a mp3 file with your text 
+
+Open the Code text-to-speech.js and look for the " var text =''; " variable 
+Then copy the text from the text File you just created and paste it into the variable.
+This is very clumpsy and funky way to do it but i still havnt found a different way to do it. 
+
+VERY IMPORTANT: before you run the text-to-speech.js Code you need to verify with you JSON verification 
+by opening the command line and use the following command. 
+```
+set GOOGLE_APPLICATION_CREDENTIALS=./nameOfYourJsonFile.json
+```
+Now can run the code with this command: 
+
+```
+node text-to-speech.js
+```
+this will creat a Output.mp3 file that you can listen to 
+
+## Text Summary
+
 ## Contributing 
 
 Any pull requests are very welcome. There is one problem that i'm hoping to solve with the community. The problem ist that i still can't pass on .txt files to the Google API. It either has to do with async function or the content of the txt file. I'm open for help. :) 
